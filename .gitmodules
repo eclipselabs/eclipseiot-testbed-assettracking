@@ -1,6 +1,6 @@
 [submodule "gateway"]
 	path = gateway
-	url = https://github.com/kartben/rh-iot-demo
+	url = https://github.com/kartben/eclipseiot-testbed-assettracking-gateway
 [submodule "cloud"]
 	path = cloud
 	url = https://github.com/kartben/eclipseiot-testbed-assettracking-cloud
