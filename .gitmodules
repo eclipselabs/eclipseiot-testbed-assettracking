@@ -3,4 +3,4 @@
 	url = https://github.com/kartben/rh-iot-demo
 [submodule "cloud"]
 	path = cloud
-	url = https://github.com/kartben/summit2017
+	url = https://github.com/kartben/eclipseiot-testbed-assettracking-cloud
