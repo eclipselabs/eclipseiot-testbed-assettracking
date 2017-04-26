@@ -1,6 +1,6 @@
-# Eclipse IoT Testbed - Asset Tracking
+# Eclipse IoT Open Testbed - Asset Tracking
 
-This repository contains the material and documentation needed to setup the Eclipse IoT Testbed for Asset Tracking. 
+This repository contains the material and documentation needed to setup the Eclipse IoT Open Testbed for Asset Tracking. 
 
 * Eclipse Kura application (Data Simulator + integration w/ TI SensorTag sensors)
 * Cloud backend and Web Dashboard
