@@ -76,3 +76,8 @@ Submit a pull request via the normal GitHub UI.
 ## After Submitting
 
 * Do not use your branch for any other development, otherwise further changes that you make will be visible in the PR.
+
+## Becoming a committer
+
+If your company is officially a participant in the testbed, you may request committer rights so that you can apply changes to the repository directly. 
+In order to own committership, the rule of thumb is to first make some contributions to the testbed, by means of pull requests, to show that you deserve the status. Once a handful of your contributions have been accepted, you can ask to be added as a contributor on the GitHub repository by creating an issue - or maybe another committer will just add you without you even asking :)
