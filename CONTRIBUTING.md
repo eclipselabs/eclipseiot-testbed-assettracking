@@ -53,10 +53,15 @@ A proper header must be in place for any file contributed to the testbed. For a 
  *******************************************************************************/
  ```
 
-### How to Contribute
+### Developer Certificate of Origin
+
+We kindly ask that you comply with the commitments described in "Developer's Certificate of Origin 1.1", quoted at https://www.eclipse.org/legal/ECA.php.
+See the "Making your changes" section below for more details on how this works in practice.
+
+## How to Contribute
 The easiest way to contribute code/patches/whatever is by creating a GitHub pull request (PR). 
 
-## Making your Changes
+### Making your changes
 
 * Fork the repository on GitHub
 * Create a new branch for your changes
@@ -69,11 +74,20 @@ The easiest way to contribute code/patches/whatever is by creating a GitHub pull
 * Make sure you use the `-s` flag when committing as explained above
 * Push your changes to your branch in your forked repository
 
-## Submitting the Changes
+### Submitting the Changes
 
-Submit a pull request via the normal GitHub UI.
+Submit a pull request via the normal GitHub UI. Please include in the description of your pull request a verbatim copy of the following paragraphs of the "Developer's Certificate of Origin 1.1". 
 
-## After Submitting
+```
+By making a contribution to this project, I certify that:
+
+The contribution was created in whole or in part by me and I have the right to submit it under the open source license indicated in the file or
+The contribution is based upon previous work that, to the best of my knowledge, is covered under an appropriate open source license and I have the right under that license to submit that work with modifications, whether created in whole or in part by me, under the same open source license (unless I am permitted to submit under a different license), as indicated in the file or
+The contribution was provided directly to me by some other person who certified (a), (b) or (c) and I have not modified it.
+I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my signoff) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
+```
+
+### After Submitting
 
 * Do not use your branch for any other development, otherwise further changes that you make will be visible in the PR.
 
