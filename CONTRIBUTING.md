@@ -94,4 +94,5 @@ I understand and agree that this project and the contribution are public and tha
 ## Becoming a Committer
 
 If your company is officially a participant in the testbed, you may request committer rights so that you can apply changes to the repository directly. 
-In order to own committership, the rule of thumb is to first make some contributions to the testbed, by means of pull requests, to show that you deserve the status. Once a handful of your contributions have been accepted, you can ask to be added as a contributor on the GitHub repository by creating an issue - or maybe another committer will just add you without you even asking :)
+
+In order to initially gain committer rights, the rule of thumb is to first make some contributions to the testbed, by means of pull requests, to show that you deserve the status. Once a handful of your contributions have been accepted, you can ask to be added as a contributor on the GitHub repository by creating an issue - or maybe another committer will just add you without you even asking :)
