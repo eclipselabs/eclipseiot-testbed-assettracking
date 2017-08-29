@@ -1,4 +1,4 @@
-# How to contribute to this Open IoT Testbed
+# How to Contribute to this Open IoT Testbed
 
 First of all, thanks for considering to contribute to the testbed. We really appreciate the time and effort you want to
 spend helping to improve things around here. And help we can use :-)
@@ -56,12 +56,12 @@ A proper header must be in place for any file contributed to the testbed. For a 
 ### Developer Certificate of Origin
 
 We kindly ask that you comply with the commitments described in "Developer's Certificate of Origin 1.1", quoted at https://www.eclipse.org/legal/ECA.php.
-See the "Making your changes" section below for more details on how this works in practice.
+See the "Submitting the Changes" section below for more details on how this works in practice.
 
 ## How to Contribute
 The easiest way to contribute code/patches/whatever is by creating a GitHub pull request (PR). 
 
-### Making your changes
+### Making your Changes
 
 * Fork the repository on GitHub
 * Create a new branch for your changes
@@ -91,7 +91,7 @@ I understand and agree that this project and the contribution are public and tha
 
 * Do not use your branch for any other development, otherwise further changes that you make will be visible in the PR.
 
-## Becoming a committer
+## Becoming a Committer
 
 If your company is officially a participant in the testbed, you may request committer rights so that you can apply changes to the repository directly. 
 In order to own committership, the rule of thumb is to first make some contributions to the testbed, by means of pull requests, to show that you deserve the status. Once a handful of your contributions have been accepted, you can ask to be added as a contributor on the GitHub repository by creating an issue - or maybe another committer will just add you without you even asking :)
