@@ -8,7 +8,7 @@ Here is a (non-exclusive, non-prioritized) list of things you might be able to h
 * bug reports
 * bug fixes
 * improvements regarding code quality e.g. improving readability, performance, modularity etc.
-* documentation (Getting Started guide, Examples, Deployment instructions ni cloud environments)
+* documentation (Getting Started guide, Examples, …)
 * features (both ideas and code are welcome)
 * tests
 
@@ -17,7 +17,7 @@ In order to get you started as fast as possible we need to go through some organ
 ## Legal Requirements
 
 This Open IoT Testbed is an initiative of the [Eclipse IoT](http://iot.eclipse.org) Working Group, hosted on EclipseLabs.
-While it is not an "official" Eclipse project, we still put a lot of value in conforming to open source best practices, and making sure that the testbeds can be used freely by anyone interested. 
+While it is not an "official" Eclipse project, we still put a lot of value in conforming to open source best practices, and making sure that the testbeds can be consumed and used easily by anyone interested. 
 Therefore, we are doing our best to track the intellectual property for all the contributions made to the testbeds' code.
 
 ### File Headers
